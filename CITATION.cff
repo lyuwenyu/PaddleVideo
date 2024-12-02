@@ -2,7 +2,7 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: Paddle Video
+title: PaddleVideo
 message: >-
   If you use this repository, please cite it using the metadata from this file.
 type: software
